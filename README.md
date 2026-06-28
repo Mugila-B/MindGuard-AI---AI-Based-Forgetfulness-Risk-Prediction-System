@@ -65,13 +65,13 @@ MindGuard-AI/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/MindGuard-AI.git
+git clone https://github.com/Mugila-B/MindGuard-AI---AI-Based-Forgetfulness-Risk-Prediction-System.git
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd MindGuard-AI
+cd MindGuard-AI---AI-Based-Forgetfulness-Risk-Prediction-System
 ```
 
 3. Install the required packages
